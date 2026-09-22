@@ -4,15 +4,6 @@
 
 ### 💻 B.Tech CSE Student | Aspiring Software Engineer
 
-<p>
-  <a href="https://github.com/shashiraju812">
-    <img src="https://img.shields.io/github/followers/shashiraju812?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/shashiraju812">
-    <img src="https://img.shields.io/github/stars/shashiraju812?label=Stars&style=for-the-badge">
-  </a>
-</p>
-
 </div>
 
 ---
@@ -21,7 +12,7 @@
 
 - 🎓 Third-year **B.Tech Computer Science Engineering** student at VJIT, Hyderabad
 - 💻 Passionate about **Software Development and Problem Solving**
-- ☕ Currently focusing on **Java, DSA and Python**
+- ☕ Focusing on **Java, DSA and Python**
 - 🤖 Interested in **AI and Cybersecurity**
 - 📱 Building applications using **Flutter and Firebase**
 - 🌐 Exploring **React, Node.js and Full Stack Development**
@@ -107,25 +98,18 @@ A project focused on securely hiding information inside audio files.
 
 ---
 
-## 🎯 Currently Learning
+## 🏆 Experience & Activities
+
+- 💼 Software & Technology Internships
+- 🏆 Hackathons and Ideathons
+- 💻 Coding Practice
+- 🚀 Project Development
+- 🎓 Technical Certifications
+- 🤝 Developer Community Events
+
+---
+
+## 📈 My Developer Journey
 
 ```text
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── Problem Solving
-
-DSA
- ├── Arrays
- ├── Strings
- ├── Linked Lists
- ├── Stack & Queue
- ├── Trees
- └── Algorithms
-
-Development
- ├── Flutter
- ├── React
- ├── Node.js
- └── Firebase
+Learn → Build → Practice → Participate → Improve → Repeat 🔁
