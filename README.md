@@ -17,7 +17,7 @@
 - 📱 Building applications using **Flutter and Firebase**
 - 🌐 Exploring **React, Node.js and Full Stack Development**
 - 🏆 Participating in **Hackathons, Internships and Technical Events**
-- 🚀 Always learning and building real-world projects
+- 🚀 Building practical projects and continuously improving my skills
 
 ---
 
@@ -73,28 +73,6 @@ A project focused on securely hiding information inside audio files.
 **Tech:** Python
 
 🔗 [View Project](https://github.com/shashiraju812/Audio_steg)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shashiraju812&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiraju812&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shashiraju812&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
