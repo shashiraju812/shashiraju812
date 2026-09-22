@@ -72,7 +72,7 @@ A project focused on securely hiding information inside audio files.
 
 **Tech:** Python
 
-🔗 [View Project](https://github.com/shashiraju812/Audio_steg)
+🔗 [View Project](https://github.com/shashiraju812/-SonicCrypt)
 
 ---
 
