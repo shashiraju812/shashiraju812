@@ -92,11 +92,3 @@ A project focused on securely hiding information inside audio files.
 ```text
 Learn → Build → Practice → Participate → Improve → Repeat 🔁
 ```
-
-### GitHub Profile Explorer
-
-Search public GitHub profiles and explore repositories, activity, statistics, and contribution heatmaps.
-
-**Tech:** React • TypeScript • Vite • Tailwind CSS
-
-🔗 [Project source and setup instructions](./APP_README.md)
