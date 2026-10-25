@@ -1,40 +1,102 @@
-# GitHub Profile Explorer
+<div align="center">
 
-Search any public GitHub user and explore their profile, repositories, stats, activity and contribution heatmap — all fetched live from GitHub's public REST API, directly in the browser (no backend).
+# 👋 Hi, I'm Shashi Raju
 
-**Shareable links:** `/?user=torvalds` loads a profile straight away.
+### 💻 B.Tech CSE Student | Aspiring Software Engineer
 
-## Features
+</div>
 
-- **Profile lookup** — avatar, name, bio, company, location, website, Twitter/X, followers/following, public repo count, join date, copy-link button.
-- **Stats dashboard** — total stars, forks, watchers and open issues across the user's repos, language donut, top-repo highlights.
-- **Repository browser** — keyword search (name, description, topics), sort by stars / updated / name, language filter, fork toggle, and a detail drawer that renders the repo README.
-- **Activity feed** — pushes (with commit messages), pull requests, issues, stars, releases, branches and more, with relative timestamps and per-type filters.
-- **Analytics** — GitHub-style contribution heatmap from public events, language donut, repos-by-stars bar chart.
-- **Quick start** — suggested notable profiles, local recent-search history (one-click re-run), loading skeletons, empty state, and clear "user not found" and rate-limit states.
-- **Polished UI** — shadcn/ui-style components on Tailwind, light/dark theme toggle, responsive layout, keyboard friendly (press `/` to focus search), semantic and accessible markup.
-- **Optional token** — paste a GitHub personal access token (no scopes needed) to raise the limit from 60 to 5,000 requests/hour. It is stored only in your browser's `localStorage` and sent only to `api.github.com`.
+---
 
-## Run it
+## 🚀 About Me
 
-```bash
-npm install
-npm run dev      # http://localhost:5173
-npm run build    # production build in dist/
+- 🎓 Third-year **B.Tech Computer Science Engineering** student at VJIT, Hyderabad
+- 💻 Passionate about **Software Development and Problem Solving**
+- ☕ Focusing on **Java, DSA and Python**
+- 🤖 Interested in **AI and Cybersecurity**
+- 📱 Building applications using **Flutter and Firebase**
+- 🌐 Exploring **React, Node.js and Full Stack Development**
+- 🏆 Participating in **Hackathons, Internships and Technical Events**
+- 🚀 Building practical projects and continuously improving my skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 💻 Featured Projects
+
+### ⚡ ElectroCare
+
+Electrical marketplace and service application built using Flutter and Firebase.
+
+**Tech:** Flutter • Dart • Firebase • Firestore • Google Maps
+
+🔗 [View Project](https://github.com/shashiraju812/ElectroCare)
+
+---
+
+### 🚨 CrisisMate
+
+AI-powered crisis decision-support platform designed to provide useful guidance during emergency situations.
+
+**Tech:** React • TypeScript • Vite • Firebase • Gemini AI
+
+---
+
+### 🔐 Audio Steganography
+
+A project focused on securely hiding information inside audio files.
+
+**Tech:** Python
+
+🔗 [View Project](https://github.com/shashiraju812/-SonicCrypt)
+
+---
+
+## 🏆 Experience & Activities
+
+- 💼 Software & Technology Internships
+- 🏆 Hackathons and Ideathons
+- 💻 Coding Practice
+- 🚀 Project Development
+- 🎓 Technical Certifications
+- 🤝 Developer Community Events
+
+---
+
+## 📈 My Developer Journey
+
+```text
+Learn → Build → Practice → Participate → Improve → Repeat 🔁
 ```
 
-## Notes on the data
+### GitHub Profile Explorer
 
-- GitHub's events API only exposes the **last 90 days / 300 events**, so the heatmap covers that window rather than a full year.
-- GitHub's repos API reports `watchers_count` equal to the star count; the "watchers" total mirrors that.
-- If a push event doesn't include commit messages, the feed looks up the head commit for the first few visible pushes (a handful of extra API calls).
-- Repos: the first 500 public repos (most recently pushed) are loaded.
+Search public GitHub profiles and explore repositories, activity, statistics, and contribution heatmaps.
 
-## Deploying to GitHub Pages
+**Tech:** React • TypeScript • Vite • Tailwind CSS
 
-Set `base` in `vite.config.ts` to `"/<repo-name>/"`, run `npm run build`, and publish `dist/`.
-Note that `?user=` links work on Pages because the app reads the query string client-side.
-
-## Stack
-
-React 18 · TypeScript · Vite · Tailwind CSS · Radix UI (dialog/sheet) · lucide-react · DOMPurify
+🔗 [Project source and setup instructions](./APP_README.md)
